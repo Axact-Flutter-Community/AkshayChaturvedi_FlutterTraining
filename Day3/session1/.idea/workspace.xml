@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="761dc30c-01c0-4ef8-97ab-6059f81a6a45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Day2/session2/fonts/DancingScript-VariableFont_wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Day2/session2/fonts/Lobster-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dice1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dice2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dice3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dice4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dice5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dice6.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1hbXHW7MIh9ifNwE17iXrczWXBz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Flutter\Day3\session1\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="761dc30c-01c0-4ef8-97ab-6059f81a6a45" name="Default Changelist" comment="" />
+      <created>1600280677714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600280677714</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="935" height="182" key="GridCell.Tab.0.bottom" timestamp="1600287902715">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="935" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1600287902715" />
+    <state width="935" height="182" key="GridCell.Tab.0.center" timestamp="1600287902715">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="935" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1600287902715" />
+    <state width="935" height="182" key="GridCell.Tab.0.left" timestamp="1600287902715">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="935" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1600287902715" />
+    <state width="935" height="182" key="GridCell.Tab.0.right" timestamp="1600287902715">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="935" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1600287902715" />
+    <state x="93" y="100" width="795" height="545" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1600287872701">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="93" y="100" width="795" height="545" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1366.738@0.0.1366.738" timestamp="1600287872701" />
+  </component>
+</project>
